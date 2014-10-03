@@ -1,3 +1,3 @@
-Node Beginner Book excersises
+Node Beginner Book
 ----------------------------
-- nuff said
+- Worked through the tutorials in this book.
